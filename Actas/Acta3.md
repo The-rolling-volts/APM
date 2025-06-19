@@ -13,7 +13,7 @@
 | Nombre                           | Cargo/Rol                 | Asistencia |
 | -------------------------------- | ------------------------- | ---------- |
 | Johan Alejandro Lopez Arias      | Gestión Financiera y HTML | Sí         |
-| David Santiago Rodriguez Almanza | -                         | -          |
+| David Santiago Rodriguez Almanza | SCADA                     | Si         |
 | Andres Yesid Romero Duarte       | Integración SCADA         | Sí         |
 | Luis Enrique Carmona Anzola      | Simulación NX             | Sí         |
 
