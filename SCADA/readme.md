@@ -6,4 +6,6 @@ Para la comunicación MQTT, se utilizó HiveMQ, montado en nube sobre un contene
 
 ## Programación PLC SIEMENS S1200
 para la programacion del controlador, lo primero que se hace es un analisis por etapas (Grafcet) de como debería funcionar este subproceso. 
+![Logo](images/Parte_1_Grafcet.png)
+
 
