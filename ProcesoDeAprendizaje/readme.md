@@ -40,18 +40,11 @@ Tuve algunas dificultades iniciales para representar ciertos elementos cinemáti
 
 **David Santiago Rodríguez Almanza**
 
+Durante el desarrollo de este proyecto, aprendí muchas cosas nuevas que habrían sido muy valiosas conocer desde el inicio, como el uso de NX. Me llevo conceptos clave que son fundamentales en cualquier proceso de manufactura a nivel industrial, como el indicador OEE (Overall Equipment Effectiveness), pero sobre todo, profundicé en el trabajo con PLC’s.
 
+Al haber estado encargado del módulo de SCADA y la programación de los controladores, me enfrenté a múltiples retos técnicos que pusieron a prueba mi tenacidad y creatividad. Ahora entiendo mucho mejor cómo funcionan estos dispositivos, su software y las comunicaciones industriales. En el proceso de depuración, tuve que analizar posibles fallos desde diferentes capas, lo que me ayudó a desarrollar una visión más completa del sistema. Afortunadamente, ningún reto fue demasiado grande, y todos representaron oportunidades de crecimiento.
 
-Este proyecto representó un gran reto personal y académico, pues asumí el diseño del sistema SCADA usando Node-RED y la programación de los PLCs con TIA Portal, un software que normalmente no se utiliza en el curso debido a que los PLCs del laboratorio son Allen Bradley. Esto significó que tuve que aprender desde cero cómo funciona TIA Portal, cómo se estructura una lógica secuencial dentro de este entorno y cómo comunicarlo con un sistema de visualización como Node-RED. También tuve algunas dificultades con la licencia de este software lo cual representó una curva de aprendizaje bastante exigente, pero muy enriquecedora.
-
-
-
-A través de múltiples pruebas, errores y validaciones, comprendí la importancia de la robustez en la lógica de control y de la claridad en las interfaces hombre-máquina.
-
-También fue clave aprender sobre los protocolos de comunicación industrial y cómo sincronizar los datos entre el PLC y el sistema supervisorio. Me siento satisfecho con lo logrado porque no solo apliqué conocimientos técnicos, sino que también desarrolle autonomía para buscar documentación, resolver errores de comunicación y construir una solución escalable. Sin duda, este tipo de trabajo basado en problemas reales es altamente efectivo para consolidar el aprendizaje.
-
-
-
+En lo personal, siento que el curso podría haber estado mejor organizado, iniciando desde el principio con las partes más complejas del proyecto, o brindando un mayor acompañamiento durante las etapas críticas. También considero que la inclusión de un libro de referencia en automatización industrial habría sido muy útil para respaldar los conocimientos prácticos con una base teórica sólida y dar mayor estructura al curso.
 
 
 
