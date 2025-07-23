@@ -1,0 +1,7 @@
+Proceso de aprendizaje individual David Santiago Rodríguez Almanza.
+
+Durante el desarrollo de este proyecto, aprendí muchas cosas nuevas que habrían sido muy valiosas conocer desde el inicio, como el uso de NX. Me llevo conceptos clave que son fundamentales en cualquier proceso de manufactura a nivel industrial, como el indicador OEE (Overall Equipment Effectiveness), pero sobre todo, profundicé en el trabajo con PLC’s.
+
+Al haber estado encargado del módulo de SCADA y la programación de los controladores, me enfrenté a múltiples retos técnicos que pusieron a prueba mi tenacidad y creatividad. Ahora entiendo mucho mejor cómo funcionan estos dispositivos, su software y las comunicaciones industriales. En el proceso de depuración, tuve que analizar posibles fallos desde diferentes capas, lo que me ayudó a desarrollar una visión más completa del sistema. Afortunadamente, ningún reto fue demasiado grande, y todos representaron oportunidades de crecimiento.
+
+En lo personal, siento que el curso podría haber estado mejor organizado, iniciando desde el principio con las partes más complejas del proyecto, o brindando un mayor acompañamiento durante las etapas críticas. También considero que la inclusión de un libro de referencia en automatización industrial habría sido muy útil para respaldar los conocimientos prácticos con una base teórica sólida y dar mayor estructura al curso.
