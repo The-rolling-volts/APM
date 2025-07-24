@@ -2,7 +2,7 @@
 <img width="1125" height="706" alt="VSM_Pintura_Marcos" src="https://github.com/user-attachments/assets/1b0a54ce-b142-499b-ae51-115fa5d3e4d7" />
 
 # VSM ensamble de las ruedas (celda robótica)
-<img width="957" height="684" alt="VSM_Celda_Robotizada" src="https://github.com/user-attachments/assets/3c586de1-0ced-4024-ac50-450948e6deaa" />
+
 
 
 # VSM línea de producción principal
